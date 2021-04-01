@@ -3,7 +3,7 @@ A Python project made with an intent to handle object-oriented programming.
 This is performed by creating new classes when you take on the role of a coach.
 
 # UML-Diagram
-<img src="OOP-INL.jpg" width="350" alt="UML-Diagram">
+<img src="OOP-INL.jpg" width="100%" alt="UML-Diagram">
 
 # Instructions
 1. Run the "fotball_manager.py" in a texteditor of your choice.
